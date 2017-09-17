@@ -209,7 +209,6 @@
     <modules>
         <module>gameoflife-build</module>
         <module>gameoflife-core</module>
-        <module>gameoflife-web</module>
     </modules>
     <profiles>
         <profile>
