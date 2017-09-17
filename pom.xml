@@ -208,7 +208,6 @@
 
     <modules>
         <module>gameoflife-build</module>
-        <module>gameoflife-core</module>
     </modules>
     <profiles>
         <profile>
